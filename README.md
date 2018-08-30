@@ -1,2 +1,1 @@
-# larstest
-Den flotte test
+læs hvor flot det er
